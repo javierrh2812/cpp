@@ -1,10 +1,8 @@
 #include "contacto.h"
 #include <stdlib.h>
-#include <conio.h>
 #include <fstream>
 #include <cstring>
 #include <cstdlib>
-#include <conio.h>
 #include <string>
 
 const char DIR_ARCHIVO[] = "datos.dat";
